@@ -1,0 +1,6 @@
+certifi==2023.11.17
+numpy==1.26.3
+opencv-python==4.9.0.80
+pillow==10.2.0
+pytube==15.0.0
+ttkthemes==3.2.2
