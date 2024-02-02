@@ -1,4 +1,5 @@
 - Download yolov7 weight and place it in Models before running code locally
+  ```sh https://sourceforge.net/projects/darknet-yolo.mirror/files/yolov4/yolov7.weights/download ```
 # Speed Camera Application
 
 ## Description
