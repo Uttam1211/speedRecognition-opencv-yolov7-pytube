@@ -1,4 +1,4 @@
-#download yolov7 weight and place it in Models before running code locally
+# download yolov7 weight and place it in Models before running code locally
 # Speed Camera Application
 
 ## Description
